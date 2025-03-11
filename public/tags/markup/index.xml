@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/markup/</link>
+      <atom:link href="http://localhost:1313/tags/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markup</title>
+      <link>http://localhost:1313/tags/markup/</link>
+    </image>
+    
+    <item>
+      <title>🥶 Markdown The Great and Terrible</title>
+      <link>http://localhost:1313/post/markdown/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;markdown-the-great-and-terrible&#34;&gt;Markdown: The Great and Terrible&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;ve ever written text in &lt;code&gt;.txt&lt;/code&gt; files but dreamed of it looking like in Word, without weighing 100 MB and opening for half an hour — congratulations, Markdown was made for you! This magical markup turns dull plain text into structured, readable, and (almost) beautiful text. All of this without the need to learn the esoteric symbols of HTML or consult with LaTeX priests.&lt;/p&gt;
+&lt;h3 id=&#34;basics-how-to-break-text-with-minimal-effort&#34;&gt;Basics: &lt;strong&gt;How to break text with minimal effort&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Markdown allows you to do the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headings&lt;/strong&gt; — just put &lt;code&gt;#&lt;/code&gt; before the text. The more &lt;code&gt;#&lt;/code&gt;, the lower the heading level. Only the bravest and most lost souls venture deeper than the third level.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt; — use &lt;code&gt;**asterisks**&lt;/code&gt; or &lt;code&gt;_underscores_&lt;/code&gt;. But be careful: too much formatting, and you&amp;rsquo;ll be mistaken for a frontend developer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt; — use &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;*&lt;/code&gt;. If you want an ordered list, use &lt;code&gt;1.&lt;/code&gt;, &lt;code&gt;2.&lt;/code&gt;, &lt;code&gt;3.&lt;/code&gt;, and enjoy the sense of control over chaos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links&lt;/strong&gt; — &lt;code&gt;[Click here](https://example.com)&lt;/code&gt;. Perfect for luring unsuspecting users to your page with 2012 memes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;/strong&gt; — Wrap text in backticks `code`, or triple backticks ``` if you want to show off a lengthy SQL query.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-markdown-is-your-new-best-friend&#34;&gt;Why Markdown is your new best friend&lt;/h3&gt;
+&lt;p&gt;Markdown is simple, like a bicycle without wheels. It allows you to focus on content, not formatting, and it also:&lt;/p&gt;
+&lt;p&gt;✅ Is supported everywhere: from GitHub to Telegram. Even grandma’s recipes can now be marked up in &lt;code&gt;.md&lt;/code&gt;.&lt;br&gt;
+✅ Is great for documentation if you like writing it (but, let’s be honest, you probably don’t).&lt;br&gt;
+✅ Supports HTML, so if you want to add &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt;, no one will stop you.
+✅ Supports LaTeX, so if you want to make your article impenetrable to 99% of readers, you can insert formulas.&lt;/p&gt;
+&lt;h3 id=&#34;the-dark-side-of-markdown&#34;&gt;The dark side of Markdown&lt;/h3&gt;
+&lt;p&gt;But not everything is so rosy. There are problems:&lt;/p&gt;
+&lt;p&gt;❌ If you need a complex layout… forget it. Want tables? Enjoy the pain with &lt;code&gt;|&lt;/code&gt; and &lt;code&gt;---&lt;/code&gt;.&lt;br&gt;
+❌ Support across different platforms is inconsistent. Sometimes links work, sometimes they don’t. And sometimes, lists turn into chaos.&lt;br&gt;
+❌ Importing into Word or Google Docs is a quest worthy of its own survival horror game.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Markdown is like minimalism in programming: if you don’t need anything extra, it’s the perfect tool. But if you need complex formatting, either you’re in the wrong place or you haven’t gone through the denial stage yet.&lt;/p&gt;
+&lt;p&gt;Use Markdown responsibly, and perhaps one day your README files will not only be useful but also readable. Although, to be honest, that’s probably unlikely.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

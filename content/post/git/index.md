@@ -1,7 +1,7 @@
 ---
 title: 🌀 Versioning as an Art. The Journey of Alexander Mazursky
 summary: Understanding Git to avoid losing your code and sanity.
-date: 2025-03-11
+date: 2025-03-10
 authors:
   - admin
 tags:
