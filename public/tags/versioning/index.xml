@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Versioning | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/versioning/</link>
+      <atom:link href="http://localhost:1313/tags/versioning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Versioning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Versioning</title>
+      <link>http://localhost:1313/tags/versioning/</link>
+    </image>
+    
+    <item>
+      <title>🌀 Versioning as an Art. The Journey of Alexander Mazursky</title>
+      <link>http://localhost:1313/post/git/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/git/</guid>
+      <description>&lt;p&gt;Alexander Mazursky, a man who has survived thousands of commits, knows firsthand what it’s like to lose code after two days of hard work. That’s why he decided to share his thoughts on Git and version control.&lt;/p&gt;
+&lt;h2 id=&#34;why-git&#34;&gt;Why Git?&lt;/h2&gt;
+&lt;p&gt;Git is not just a version control system; it’s your safety net against disasters. Imagine this: you&amp;rsquo;re crafting a genius piece of code, but then you decide to &amp;ldquo;improve&amp;rdquo; it, and suddenly it stops working. What do you do? Git lets you roll back in time as if you hacked the timeline.&lt;/p&gt;
+&lt;h2 id=&#34;essential-commands&#34;&gt;Essential Commands&lt;/h2&gt;
+&lt;p&gt;Here’s a short list of commands that have saved thousands of developers from nervous breakdowns:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init   &lt;span class=&#34;c1&#34;&gt;# Create a repository&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .  &lt;span class=&#34;c1&#34;&gt;# Stage changes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Masterpiece saved&amp;#34;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# Commit changes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push   &lt;span class=&#34;c1&#34;&gt;# Push to a remote repository&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull   &lt;span class=&#34;c1&#34;&gt;# Fetch changes from the server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git reset --hard HEAD~1  &lt;span class=&#34;c1&#34;&gt;# Revert the last changes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;branching-and-merging&#34;&gt;Branching and Merging&lt;/h2&gt;
+&lt;p&gt;Git allows you to create parallel realities in your code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch feature_x  &lt;span class=&#34;c1&#34;&gt;# Create a new branch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout feature_x  &lt;span class=&#34;c1&#34;&gt;# Switch to it&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge main  &lt;span class=&#34;c1&#34;&gt;# Merge changes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Git is not just a tool; it’s a philosophy. Use it wisely, and your code will be safe. And if not—just run &lt;code&gt;git blame&lt;/code&gt; and find the culprit.&lt;/p&gt;
+&lt;h2 id=&#34;found-this-helpful-share-it-with-your-friends-&#34;&gt;Found this helpful? Share it with your friends! 🚀&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

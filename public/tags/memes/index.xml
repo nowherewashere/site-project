@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memes | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/memes/</link>
+      <atom:link href="http://localhost:1313/tags/memes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Memes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Memes</title>
+      <link>http://localhost:1313/tags/memes/</link>
+    </image>
+    
+    <item>
+      <title>🧠 The Cringe Lord&#39;s Greatest Discovery</title>
+      <link>http://localhost:1313/post/ai-performance/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ai-performance/</guid>
+      <description>&lt;p&gt;Mazursky Alexander a.k.a Cringe Lord (Embarassment Seignour formally) spent another legendary evening indulging in an uninterrupted meme binge. Just as his spirit was about to fade into the algorithmic abyss, his tired eyes stumbled upon something unseen before—a digital relic of pure absurdity. A revelation. A prophecy in pixel form.&lt;/p&gt;
+&lt;p&gt;An AI-generated image. A bird. Not just any bird—a tit with &lt;em&gt;huge&lt;/em&gt; eggs, majestically perched on a branch, as if aware of the cosmic weight it carried. The sheer audacity of its existence stunned him. This was &lt;strong&gt;it&lt;/strong&gt;. The next great artifact of the internet.&lt;/p&gt;
+&lt;h2 id=&#34;the-discovery&#34;&gt;The Discovery&lt;/h2&gt;
+&lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible meme-discovery and archival capabilities out there (hypothetically). But even the greatest tools could not prepare Mazursky for the sheer magnitude of his finding.&lt;/p&gt;
+&lt;p&gt;A treasure hidden in the depths of AI-generated absurdity, this image was proof that machine learning had finally caught up with the internet&amp;rsquo;s most &lt;em&gt;refined&lt;/em&gt; sense of humor.&lt;/p&gt;
+&lt;h2 id=&#34;mindmaps-of-madness&#34;&gt;Mindmaps of Madness&lt;/h2&gt;
+&lt;p&gt;To process the significance of this moment, Mazursky did what any self-respecting digital archivist would do—he made a mindmap. Because if an AI-generated &lt;strong&gt;tit with eggs of legend&lt;/strong&gt; deserved anything, it was structured documentation.&lt;/p&gt;
+&lt;p&gt;Using Markdown-powered mindmaps, the legendary discovery was preserved for future generations:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- The Great AI Bird
+  - Discovered by Cringe Lord
+  - Importance
+    - **Meme potential**: Unlimited
+    - ~~Biological accuracy~~: Irrelevant
+    - Philosophical depth: Unquantifiable
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- The Great AI Bird
+  - Discovered by Cringe Lord
+  - Importance
+    - **Meme potential**: Unlimited
+    - ~~Biological accuracy~~: Irrelevant
+    - Philosophical depth: Unquantifiable&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;the-art-of-highlighting&#34;&gt;The Art of Highlighting&lt;/h2&gt;
+&lt;p&gt;&lt;mark&gt;This bird was no ordinary bird.&lt;/mark&gt; It deserved to be celebrated. To be immortalized.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Behold, the legendary bird.&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;a-call-to-action&#34;&gt;A Call to Action&lt;/h2&gt;
+&lt;p&gt;Use &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;callouts&lt;/a&gt; to ensure the significance of this moment is not lost:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This AI-generated bird may change the way we perceive memes forever.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;This AI-generated bird may change the way we perceive memes forever.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Or, if you want to make sure your audience truly understands the gravity of this moment:&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;This image is &lt;strong&gt;not safe&lt;/strong&gt; for weak minds unprepared for the pinnacle of AI absurdity.&lt;/span&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it--or-better-yetspread-the-legend-of-the-bird-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌 Or better yet—spread the legend of the bird! 🐦✨&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
