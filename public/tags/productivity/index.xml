@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+      <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Productivity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+    </image>
+    
+    <item>
+      <title>📜 The Art of Report Writing in Markdown</title>
+      <link>http://localhost:1313/post/report/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/report/</guid>
+      <description>&lt;h1 id=&#34;the-art-of-report-writing-in-markdown&#34;&gt;The Art of Report Writing in Markdown&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Congratulations! You’ve been tasked with writing a report. Maybe it’s for work, maybe for university, or maybe just to convince yourself that Markdown is superior to everything else. Either way, you need something structured, readable, and, most importantly, NOT in Word. That’s where Markdown comes in.&lt;/p&gt;
+&lt;p&gt;Markdown allows you to format reports with minimal effort while keeping things clean and distraction-free. Let’s explore how to make your reports both professional and a tiny bit chaotic (just like your thought process).&lt;/p&gt;
+&lt;h2 id=&#34;sections--headings&#34;&gt;Sections &amp;amp; Headings&lt;/h2&gt;
+&lt;p&gt;Every serious report needs structure. In Markdown, you do this with &lt;code&gt;#&lt;/code&gt; for headings. The bigger the heading, the fewer &lt;code&gt;#&lt;/code&gt; symbols:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Big Important Title
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## Slightly Less Important Section
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### Minor Detail You’ll Probably Skip
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Your reader’s patience decreases with every &lt;code&gt;#&lt;/code&gt; you add, so use them wisely.&lt;/p&gt;
+&lt;h2 id=&#34;lists-because-bullet-points-look-smart&#34;&gt;Lists: Because Bullet Points Look Smart&lt;/h2&gt;
+&lt;p&gt;If you don’t want to write long paragraphs (who does?), you can summarize everything in lists:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Key findings: People don&amp;#39;t read documentation.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Solution: Write shorter reports.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Conclusion: Markdown saves lives.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For the truly ambitious:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Pretend to research.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Write down conclusions before actually researching.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; Add footnotes to look credible.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;4.&lt;/span&gt; Profit.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;tables-the-excel-killer-almost&#34;&gt;Tables: The Excel Killer (Almost)&lt;/h2&gt;
+&lt;p&gt;Your boss/professor loves tables. Markdown provides a way to make them without pulling your hair out:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Feature        | Word        | Markdown |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;|---------------|------------|----------|
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Formatting    | Painful    | Effortless |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| File Size     | 50MB+      | 5KB       |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Sanity Level  | Dropping   | Maintained |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You’re welcome.&lt;/p&gt;
+&lt;h2 id=&#34;blockquotes-sound-more-important-than-you-are&#34;&gt;Blockquotes: Sound More Important Than You Are&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;&amp;#34;Good documentation is written, not found.&amp;#34; — Some Wise Person
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Use this when you want to appear deep and intellectual without actually doing extra work.&lt;/p&gt;
+&lt;h2 id=&#34;code-blocks-for-when-you-want-to-show-off&#34;&gt;Code Blocks: For When You Want to Show Off&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;print(&amp;ldquo;Hello, Markdown report!&amp;rdquo;)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is crucial if your report involves coding or if you just want to flex your ability to write three lines of Python.&lt;/p&gt;
+&lt;h2 id=&#34;footnotes-make-people-think-you-did-research&#34;&gt;Footnotes: Make People Think You Did Research&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Markdown is great[^1].
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[^1]: Source: Trust me, bro.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;exporting-your-report-good-luck&#34;&gt;Exporting Your Report (Good Luck!)&lt;/h2&gt;
+&lt;p&gt;Markdown is simple, but if you need a polished PDF, you’ll need Pandoc, LaTeX, and possibly a few hours of suffering:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc report.md -o report.pdf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or you can just keep it as Markdown and pretend it’s meant to be “raw and minimalistic.”&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Writing reports in Markdown is easy, fun, and much less frustrating than using Word. Plus, you can pretend you’re a hacker while formatting your text. Just remember: &lt;strong&gt;less is more&lt;/strong&gt;, except when it comes to procrastination.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

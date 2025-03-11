@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/versioning/</link>
       <atom:link href="http://localhost:1313/tags/versioning/index.xml" rel="self" type="application/rss+xml" />
     <description>Versioning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Versioning</title>
@@ -15,7 +15,7 @@
     <item>
       <title>🌀 Versioning as an Art. The Journey of Alexander Mazursky</title>
       <link>http://localhost:1313/post/git/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/git/</guid>
       <description>&lt;p&gt;Alexander Mazursky, a man who has survived thousands of commits, knows firsthand what it’s like to lose code after two days of hard work. That’s why he decided to share his thoughts on Git and version control.&lt;/p&gt;
 &lt;h2 id=&#34;why-git&#34;&gt;Why Git?&lt;/h2&gt;

@@ -18,20 +18,22 @@ organizations:
     
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:1132242468@rudn.ru'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/scholar
+    url: https://scholar.google.com/@mazurskiy
+  - icon: brands/orcid
+    url: https://orcid.org/@mazurskiy
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/@mazurskiy
+  - icon: brands/research
+    url: https://www.researchgate.net/@mazurskiy
+  - icon: brands/academia
+    url: https://www.academia.edu/@mazurskiy
+  - icon: brands/arxiv
+    url: https://www.arxiv.org/@mazurskiy
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.github.com/nowherewashere/
 
 interests:
   - Version Control Chaos

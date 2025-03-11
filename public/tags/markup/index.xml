@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/markup/</link>
       <atom:link href="http://localhost:1313/tags/markup/index.xml" rel="self" type="application/rss+xml" />
     <description>Markup</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Markup</title>
@@ -15,7 +15,7 @@
     <item>
       <title>🥶 Markdown The Great and Terrible</title>
       <link>http://localhost:1313/post/markdown/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/markdown/</guid>
       <description>&lt;h2 id=&#34;markdown-the-great-and-terrible&#34;&gt;Markdown: The Great and Terrible&lt;/h2&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;

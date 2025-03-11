@@ -1,7 +1,7 @@
 ---
 title: 🥶 Markdown The Great and Terrible
 summary: How to make ugly text a little less ugly.
-date: 2025-03-11
+date: 2025-03-02
 author: 
     - admin
 tags: 
