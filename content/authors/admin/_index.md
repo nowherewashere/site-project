@@ -5,7 +5,7 @@ first_name: Aleksandr
 last_name: Mazurskiy
 
 status:
-  icon: 🌊
+  icon:
 superuser: true
 
 highlight_name: true

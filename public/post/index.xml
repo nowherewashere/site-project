@@ -5,12 +5,104 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>🤓 Scientific Programming Languages. The Art of Making Your Brain Hurt</title>
+      <link>http://localhost:1313/post/proglangs/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/proglangs/</guid>
+      <description>&lt;h1 id=&#34;scientific-programming-languages-the-art-of-making-your-brain-hurt&#34;&gt;Scientific Programming Languages: The Art of Making Your Brain Hurt&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;So, you’ve decided to enter the glorious world of scientific programming? Congratulations! You are now on the path of endless debugging, cryptic error messages, and wondering why your code works perfectly on your machine but collapses into chaos on the cluster.&lt;/p&gt;
+&lt;p&gt;But before you start your descent into madness, you need to choose your weapon—uh, I mean, your programming language. So, let’s take a look at the fine selection of scientific programming tools available to us, and why each one is both a blessing and a curse.&lt;/p&gt;
+&lt;h2 id=&#34;the-usual-suspects&#34;&gt;The Usual Suspects&lt;/h2&gt;
+&lt;h3 id=&#34;-python-the-king-of-convenience&#34;&gt;🐍 Python: The King of Convenience&lt;/h3&gt;
+&lt;p&gt;Python is the undisputed champion of scientific computing. It&amp;rsquo;s easy to read, has more libraries than you’ll ever use, and runs (eventually).&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can do &lt;em&gt;everything&lt;/em&gt; in Python: data analysis, simulations, machine learning, summoning eldritch horrors from NumPy.&lt;/li&gt;
+&lt;li&gt;Jupyter notebooks make you feel like a real scientist (until you accidentally run a cell twice and ruin your whole dataset).&lt;/li&gt;
+&lt;li&gt;The community is massive—if you have a problem, someone has probably already solved it on Stack Overflow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;❌ &lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Speed? What’s that? Python laughs in the face of performance.&lt;/li&gt;
+&lt;li&gt;Dependency hell. Installing the right versions of NumPy, SciPy, and Matplotlib is an art form.&lt;/li&gt;
+&lt;li&gt;Writing parallelized code? Prepare to meet the GIL (Global Interpreter Lock), your new worst enemy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-matlab-the-expensive-spreadsheet&#34;&gt;🧮 MATLAB: The Expensive Spreadsheet&lt;/h3&gt;
+&lt;p&gt;MATLAB is what happens when scientists need to code but don’t want to &lt;em&gt;really&lt;/em&gt; code.&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matrix operations feel like magic.&lt;/li&gt;
+&lt;li&gt;Great plotting capabilities.&lt;/li&gt;
+&lt;li&gt;Used by every engineering department, so you &lt;em&gt;must&lt;/em&gt; learn it at some point.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;❌ &lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Costs more than your soul.&lt;/li&gt;
+&lt;li&gt;Memory management? Never heard of it.&lt;/li&gt;
+&lt;li&gt;If your research group makes you use MATLAB, it’s probably because their 15-year-old scripts still work (barely).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-fortran-the-ancient-one&#34;&gt;👴 Fortran: The Ancient One&lt;/h3&gt;
+&lt;p&gt;Fortran has been around longer than most of us, and it still refuses to die. Scientists love it because it &lt;em&gt;works&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blazing fast. Faster than C in some cases.&lt;/li&gt;
+&lt;li&gt;Still heavily used in physics and numerical simulations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;❌ &lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feels like programming in a haunted house—every change risks waking up a ghost from the 1970s.&lt;/li&gt;
+&lt;li&gt;Good luck finding modern documentation that doesn’t look like it was typed on a typewriter.&lt;/li&gt;
+&lt;li&gt;People will judge you (but secretly respect you).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;honorable-mentions&#34;&gt;Honorable Mentions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; – For people who love statistics and pain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; – Python, but &lt;em&gt;faster&lt;/em&gt; (in theory).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt; – When Python isn’t suffering enough for you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wolfram Mathematica&lt;/strong&gt; – Because why not turn math into dark magic?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Choosing a scientific programming language is like choosing your favorite method of self-inflicted torment. No matter which one you pick, you will spend hours debugging, rewriting, and questioning your life choices. But in the end, the true scientific method is about suffering &lt;em&gt;efficiently&lt;/em&gt;, and that’s what these languages are here for.&lt;/p&gt;
+&lt;p&gt;Now go forth and code! Or stare at a segmentation fault for the next five hours. Either way, you’re doing science. 🔬🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🥱 Life is boring</title>
+      <link>http://localhost:1313/post/bored/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/bored/</guid>
+      <description>&lt;h2 id=&#34;the-fatigue-of-doing-absolutely-nothing&#34;&gt;The Fatigue of Doing Absolutely Nothing&lt;/h2&gt;
+&lt;p&gt;It happened. A historical event, a paradox, an enigma wrapped in mystery—call it what you want, but here I am, completely exhausted… from doing absolutely nothing.&lt;/p&gt;
+&lt;p&gt;Day in, day out, I sit in my cozy cave, rarely stepping outside, except for the occasional quest to the refrigerator or the ritualistic pacing around the room while pretending to be productive. And yet, somehow, despite moving less than a houseplant, I feel drained. Physically, mentally, spiritually. Even my shadow looks disappointed in me.&lt;/p&gt;
+&lt;h3 id=&#34;the-science-behind-the-mystery&#34;&gt;The Science Behind the Mystery&lt;/h3&gt;
+&lt;p&gt;Experts would say, “You’re just mentally exhausted,” or perhaps something even more sophisticated like “prolonged sensory deprivation can lead to fatigue.” Yeah, sure. But explain to me why my biggest physical exertion this week was reaching for my phone that fell under the bed, and I still feel like I just ran a marathon—backwards, uphill, in the snow.&lt;/p&gt;
+&lt;p&gt;The symptoms?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A sudden inability to focus (which, to be fair, has always been my superpower).&lt;/li&gt;
+&lt;li&gt;The feeling of wanting to do something but not knowing what (classic).&lt;/li&gt;
+&lt;li&gt;The crushing realization that I could, theoretically, go outside… but the mere thought of putting on shoes is exhausting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;solutions-that-will-probably-not-work&#34;&gt;Solutions That Will Probably Not Work&lt;/h3&gt;
+&lt;p&gt;Of course, every self-help guru and motivational coach would have solutions:&lt;br&gt;
+✅ &lt;strong&gt;Take a walk.&lt;/strong&gt; (I walked to the kitchen. Didn&amp;rsquo;t help.)&lt;br&gt;
+✅ &lt;strong&gt;Exercise.&lt;/strong&gt; (I opened a fitness app, looked at it, then closed it. Didn&amp;rsquo;t help.)&lt;br&gt;
+✅ &lt;strong&gt;Meditate.&lt;/strong&gt; (I tried staring at a wall for 10 minutes. Didn&amp;rsquo;t help. Also, boring.)&lt;br&gt;
+✅ &lt;strong&gt;Get some sunlight.&lt;/strong&gt; (There’s a window. That counts, right?)&lt;/p&gt;
+&lt;h3 id=&#34;the-inevitable-conclusion&#34;&gt;The Inevitable Conclusion&lt;/h3&gt;
+&lt;p&gt;The truth is, doing nothing is actually really tiring. A body at rest, it turns out, does not stay at rest—it dissolves into a sluggish, existentially confused entity questioning its very purpose.&lt;/p&gt;
+&lt;p&gt;Will I recover? Probably. Will I change anything about my routine? Unlikely. But for now, I will embrace this state of paradoxical exhaustion, stare at the ceiling for an undetermined amount of time, and then, with great effort, return to my primary occupation&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>📜 The Art of Report Writing in Markdown</title>
