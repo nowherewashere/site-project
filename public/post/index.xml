@@ -1,16 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Hugo Academic CV Theme</title>
+    <title>Blog | Cringe Lord</title>
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Building Your Own PC: A Journey of Hope and Regret</title>
+      <link>http://localhost:1313/post/pc/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/pc/</guid>
+      <description>&lt;h1 id=&#34;building-your-own-pc-a-journey-of-hope-and-regret&#34;&gt;Building Your Own PC: A Journey of Hope and Regret&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;So, you’ve decided to build your own PC? Bold move. You could have just bought a pre-built machine, but no—you&amp;rsquo;re an &lt;em&gt;engineer&lt;/em&gt;, a &lt;em&gt;technologist&lt;/em&gt;, a &lt;em&gt;visionary&lt;/em&gt;! You refuse to be scammed by overpriced &amp;ldquo;gaming&amp;rdquo; setups with RGB everything. Instead, you’ll venture into the dangerous world of DIY computer assembly, armed with only a screwdriver and a growing sense of regret.&lt;/p&gt;
+&lt;p&gt;Let’s break down the &lt;em&gt;real&lt;/em&gt; process of building a PC—step by step, mistake by mistake.&lt;/p&gt;
+&lt;h2 id=&#34;step-1-the-shopping-spree&#34;&gt;Step 1: The Shopping Spree&lt;/h2&gt;
+&lt;p&gt;First, you’ll spend &lt;em&gt;weeks&lt;/em&gt; researching components, watching endless YouTube videos, and reading forum arguments about AMD vs. Intel. Eventually, you’ll settle on your parts:&lt;/p&gt;
+&lt;p&gt;🧠 &lt;strong&gt;CPU&lt;/strong&gt; – The brain of your PC. Pick one that&amp;rsquo;s powerful enough but not &lt;em&gt;too&lt;/em&gt; powerful, or else you’ll spend the next five years saving for a compatible GPU.&lt;/p&gt;
+&lt;p&gt;🎨 &lt;strong&gt;GPU&lt;/strong&gt; – The most expensive part, because &lt;em&gt;of course&lt;/em&gt; you want to play games at ultra settings.&lt;/p&gt;
+&lt;p&gt;💾 &lt;strong&gt;RAM&lt;/strong&gt; – More is better, unless you enjoy watching Chrome devour your entire system.&lt;/p&gt;
+&lt;p&gt;📦 &lt;strong&gt;Motherboard&lt;/strong&gt; – Good luck picking the &lt;em&gt;right&lt;/em&gt; one. It must support your CPU, your RAM, your GPU, your hopes, and your dreams.&lt;/p&gt;
+&lt;p&gt;🔌 &lt;strong&gt;Power Supply (PSU)&lt;/strong&gt; – The most overlooked part. Get a good one unless you want to &lt;em&gt;literally&lt;/em&gt; set your house on fire.&lt;/p&gt;
+&lt;p&gt;💨 &lt;strong&gt;Cooling&lt;/strong&gt; – Air cooling? Liquid cooling? Stock cooler? Whatever you choose, remember: overheating is just your PC telling you it’s &lt;em&gt;too powerful&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;step-2-the-assembly-aka-the-panic-phase&#34;&gt;Step 2: The Assembly (a.k.a. The Panic Phase)&lt;/h2&gt;
+&lt;p&gt;Now that you have your parts, it’s time for the fun part—putting them together! Here’s how it usually goes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Place the motherboard&lt;/strong&gt; in the case. Realize you forgot to install the I/O shield. Remove everything.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Install the CPU&lt;/strong&gt;. Carefully. Like, &lt;em&gt;really&lt;/em&gt; carefully. Drop it once and congratulations—you now own a very expensive paperweight.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apply thermal paste&lt;/strong&gt;. Too little? Your CPU melts. Too much? Your entire motherboard turns into a disaster zone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Install RAM&lt;/strong&gt;. Try forcing it in the wrong way for 15 minutes before realizing it only fits &lt;em&gt;one&lt;/em&gt; way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Connect the power cables&lt;/strong&gt;. Spend half an hour searching for where they actually go.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn it on&lt;/strong&gt;. Nothing happens. Cry.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;step-3-the-debugging-ritual&#34;&gt;Step 3: The Debugging Ritual&lt;/h2&gt;
+&lt;p&gt;Your PC refuses to turn on. Fantastic. Time for &lt;strong&gt;troubleshooting&lt;/strong&gt;, also known as &lt;em&gt;guessing until it works&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the &lt;strong&gt;RAM seated properly&lt;/strong&gt;? (Spoiler: It never is.)&lt;/li&gt;
+&lt;li&gt;Did you &lt;strong&gt;plug in the CPU power cable&lt;/strong&gt;? No? Fix that.&lt;/li&gt;
+&lt;li&gt;Is there &lt;strong&gt;a rogue standoff&lt;/strong&gt; shorting your motherboard? Better hope not.&lt;/li&gt;
+&lt;li&gt;Have you tried &lt;strong&gt;turning it off and on again&lt;/strong&gt;?&lt;/li&gt;
+&lt;li&gt;Still nothing? Welcome to the BIOS, where settings make no sense and the interface looks like it was designed in 1998.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-4-victory-or-defeat&#34;&gt;Step 4: Victory (Or Defeat)&lt;/h2&gt;
+&lt;p&gt;Eventually, through sheer luck and stubbornness, your PC boots up. You let out a sigh of relief, install your OS, and finally experience the joy of a working system.&lt;/p&gt;
+&lt;p&gt;At least until a &lt;strong&gt;random blue screen&lt;/strong&gt; ruins your day.&lt;/p&gt;
+&lt;p&gt;But hey, congratulations! You’re now part of an elite group of PC builders—those who have suffered through the process, made every mistake possible, and somehow emerged victorious.&lt;/p&gt;
+&lt;p&gt;Now go enjoy your &lt;em&gt;perfectly optimized&lt;/em&gt; gaming rig. Until, of course, next year, when you convince yourself you need an upgrade. 🚀💻&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Pro Tip:&lt;/strong&gt; Take a picture of your perfectly built PC. It’ll remind you why you should &lt;em&gt;never&lt;/em&gt; do this again.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Life of a Web Developer: A Tale of Code and Existential Dread</title>
+      <link>http://localhost:1313/post/fin/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fin/</guid>
+      <description>&lt;h1 id=&#34;the-life-of-a-web-developer-a-tale-of-code-and-existential-dread&#34;&gt;The Life of a Web Developer: A Tale of Code and Existential Dread&lt;/h1&gt;
+&lt;h2 id=&#34;the-beginning-a-dream-and-a-javascript-tutorial&#34;&gt;The Beginning: A Dream and a JavaScript Tutorial&lt;/h2&gt;
+&lt;p&gt;Once upon a time, I thought being a web developer was about &lt;em&gt;creating beautiful things&lt;/em&gt;. I imagined sleek interfaces, smooth animations, and users who would admire my craftsmanship. So, with hope in my heart, I opened my first HTML file, added a &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, and felt like a digital Michelangelo.&lt;/p&gt;
+&lt;p&gt;Then I met &lt;strong&gt;CSS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ah, CSS—the art of telling a box where to go, only for it to disobey you like a rebellious teenager. I quickly learned that getting a button to sit &lt;em&gt;exactly&lt;/em&gt; where you want it is less about logic and more about bargaining with unknown forces.&lt;/p&gt;
+&lt;p&gt;Then came &lt;strong&gt;JavaScript&lt;/strong&gt;. A language so powerful it can do &lt;em&gt;everything&lt;/em&gt;, but so chaotic it can also ruin your entire afternoon because of a missing semicolon.&lt;/p&gt;
+&lt;p&gt;And thus, my journey began.&lt;/p&gt;
+&lt;h2 id=&#34;the-middle-an-endless-cycle-of-hope-and-despair&#34;&gt;The Middle: An Endless Cycle of Hope and Despair&lt;/h2&gt;
+&lt;p&gt;Being a web developer is like playing an infinite game of Jenga. You build things, stack features on top of each other, and pray nothing collapses. Some key experiences along the way:&lt;/p&gt;
+&lt;h3 id=&#34;1-framework-fomo&#34;&gt;1. &lt;strong&gt;Framework FOMO&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Every six months, a new JavaScript framework emerges, and suddenly, you’re outdated. Remember when React was &lt;em&gt;the&lt;/em&gt; thing? Now it’s all about Svelte. Or is it Solid? Or maybe it’s time to go back to plain HTML for “simplicity”? Who knows.&lt;/p&gt;
+&lt;h3 id=&#34;2-the-great-backend-awakening&#34;&gt;2. &lt;strong&gt;The Great Backend Awakening&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;At first, I thought I could just be a front-end developer. But then someone asked, &lt;em&gt;“Can you set up an API?”&lt;/em&gt; and just like that, I was dragged into the world of databases, authentication, and error messages that made me question my entire existence.&lt;/p&gt;
+&lt;h3 id=&#34;3-the-deployment-crisis&#34;&gt;3. &lt;strong&gt;The Deployment Crisis&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;“Works on my machine” is the mantra of every developer who has ever deployed a project only for it to fail &lt;strong&gt;spectacularly&lt;/strong&gt; in production. Debugging a live website at 3 AM while whispering &lt;em&gt;“please just work”&lt;/em&gt; is a rite of passage.&lt;/p&gt;
+&lt;h2 id=&#34;the-present-acceptance-or-something-like-it&#34;&gt;The Present: Acceptance (Or Something Like It)&lt;/h2&gt;
+&lt;p&gt;After years of battling CSS grids, deciphering cryptic error messages, and rewriting the same app in three different frameworks, I’ve reached a conclusion:&lt;/p&gt;
+&lt;p&gt;Web development is not about perfection. It’s about &lt;em&gt;survival&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;You will never write &lt;em&gt;the&lt;/em&gt; perfect code. You will never master &lt;em&gt;all&lt;/em&gt; the tools. There will always be a bug that refuses to die and a client who asks, &lt;em&gt;“Can we make the logo bigger?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;And yet, somehow, we keep going.&lt;/p&gt;
+&lt;p&gt;Because in between the headaches, there’s &lt;strong&gt;the thrill of solving a problem&lt;/strong&gt;, &lt;strong&gt;the joy of seeing your work come to life&lt;/strong&gt;, and &lt;strong&gt;the satisfaction of knowing that, despite the chaos, you built something real&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Even if that “something” is just another to-do app.&lt;/p&gt;
+&lt;h2 id=&#34;the-future-who-knows&#34;&gt;The Future: Who Knows?&lt;/h2&gt;
+&lt;p&gt;Will AI replace us? Will the web be completely rewritten in WebAssembly? Will I finally understand CSS Flexbox?&lt;/p&gt;
+&lt;p&gt;Only time will tell.&lt;/p&gt;
+&lt;p&gt;But for now, I’ll keep writing code, fixing bugs, and pretending I know what I’m doing—just like every other developer out there.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Pro Tip:&lt;/strong&gt; If your website isn’t working, just clear the cache. Or restart your computer. Or switch careers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🤓 Scientific Programming Languages. The Art of Making Your Brain Hurt</title>

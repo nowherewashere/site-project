@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development | Cringe Lord</title>
+    <link>http://localhost:1313/tags/web-development/</link>
+      <atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Development</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+    </image>
+    
+    <item>
+      <title>The Life of a Web Developer: A Tale of Code and Existential Dread</title>
+      <link>http://localhost:1313/post/fin/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fin/</guid>
+      <description>&lt;h1 id=&#34;the-life-of-a-web-developer-a-tale-of-code-and-existential-dread&#34;&gt;The Life of a Web Developer: A Tale of Code and Existential Dread&lt;/h1&gt;
+&lt;h2 id=&#34;the-beginning-a-dream-and-a-javascript-tutorial&#34;&gt;The Beginning: A Dream and a JavaScript Tutorial&lt;/h2&gt;
+&lt;p&gt;Once upon a time, I thought being a web developer was about &lt;em&gt;creating beautiful things&lt;/em&gt;. I imagined sleek interfaces, smooth animations, and users who would admire my craftsmanship. So, with hope in my heart, I opened my first HTML file, added a &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, and felt like a digital Michelangelo.&lt;/p&gt;
+&lt;p&gt;Then I met &lt;strong&gt;CSS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ah, CSS—the art of telling a box where to go, only for it to disobey you like a rebellious teenager. I quickly learned that getting a button to sit &lt;em&gt;exactly&lt;/em&gt; where you want it is less about logic and more about bargaining with unknown forces.&lt;/p&gt;
+&lt;p&gt;Then came &lt;strong&gt;JavaScript&lt;/strong&gt;. A language so powerful it can do &lt;em&gt;everything&lt;/em&gt;, but so chaotic it can also ruin your entire afternoon because of a missing semicolon.&lt;/p&gt;
+&lt;p&gt;And thus, my journey began.&lt;/p&gt;
+&lt;h2 id=&#34;the-middle-an-endless-cycle-of-hope-and-despair&#34;&gt;The Middle: An Endless Cycle of Hope and Despair&lt;/h2&gt;
+&lt;p&gt;Being a web developer is like playing an infinite game of Jenga. You build things, stack features on top of each other, and pray nothing collapses. Some key experiences along the way:&lt;/p&gt;
+&lt;h3 id=&#34;1-framework-fomo&#34;&gt;1. &lt;strong&gt;Framework FOMO&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Every six months, a new JavaScript framework emerges, and suddenly, you’re outdated. Remember when React was &lt;em&gt;the&lt;/em&gt; thing? Now it’s all about Svelte. Or is it Solid? Or maybe it’s time to go back to plain HTML for “simplicity”? Who knows.&lt;/p&gt;
+&lt;h3 id=&#34;2-the-great-backend-awakening&#34;&gt;2. &lt;strong&gt;The Great Backend Awakening&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;At first, I thought I could just be a front-end developer. But then someone asked, &lt;em&gt;“Can you set up an API?”&lt;/em&gt; and just like that, I was dragged into the world of databases, authentication, and error messages that made me question my entire existence.&lt;/p&gt;
+&lt;h3 id=&#34;3-the-deployment-crisis&#34;&gt;3. &lt;strong&gt;The Deployment Crisis&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;“Works on my machine” is the mantra of every developer who has ever deployed a project only for it to fail &lt;strong&gt;spectacularly&lt;/strong&gt; in production. Debugging a live website at 3 AM while whispering &lt;em&gt;“please just work”&lt;/em&gt; is a rite of passage.&lt;/p&gt;
+&lt;h2 id=&#34;the-present-acceptance-or-something-like-it&#34;&gt;The Present: Acceptance (Or Something Like It)&lt;/h2&gt;
+&lt;p&gt;After years of battling CSS grids, deciphering cryptic error messages, and rewriting the same app in three different frameworks, I’ve reached a conclusion:&lt;/p&gt;
+&lt;p&gt;Web development is not about perfection. It’s about &lt;em&gt;survival&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;You will never write &lt;em&gt;the&lt;/em&gt; perfect code. You will never master &lt;em&gt;all&lt;/em&gt; the tools. There will always be a bug that refuses to die and a client who asks, &lt;em&gt;“Can we make the logo bigger?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;And yet, somehow, we keep going.&lt;/p&gt;
+&lt;p&gt;Because in between the headaches, there’s &lt;strong&gt;the thrill of solving a problem&lt;/strong&gt;, &lt;strong&gt;the joy of seeing your work come to life&lt;/strong&gt;, and &lt;strong&gt;the satisfaction of knowing that, despite the chaos, you built something real&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Even if that “something” is just another to-do app.&lt;/p&gt;
+&lt;h2 id=&#34;the-future-who-knows&#34;&gt;The Future: Who Knows?&lt;/h2&gt;
+&lt;p&gt;Will AI replace us? Will the web be completely rewritten in WebAssembly? Will I finally understand CSS Flexbox?&lt;/p&gt;
+&lt;p&gt;Only time will tell.&lt;/p&gt;
+&lt;p&gt;But for now, I’ll keep writing code, fixing bugs, and pretending I know what I’m doing—just like every other developer out there.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Pro Tip:&lt;/strong&gt; If your website isn’t working, just clear the cache. Or restart your computer. Or switch careers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
